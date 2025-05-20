@@ -76,5 +76,3 @@ pip install tensorflow scikit-learn matplotlib seaborn
 - Best model is saved as `best_coin_model.h5`.
 
 ---
-
-*Feel free to modify the notebook and README for your specific dataset or classification task!*
