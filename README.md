@@ -1,4 +1,4 @@
-# computer-vision-project
+# U.S Coin Recognition Model
 
 This project is a deep learning pipeline for coin classification using TensorFlow/Keras. It covers data preparation, augmentation, model training, evaluation, and visualization.
 
